@@ -1,5 +1,3 @@
-# nn-final-project
-
 Check out Interpretability paper pdf for project results and comprehensive explanation
 
 ## Dataset and directories
